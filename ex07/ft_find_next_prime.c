@@ -1,3 +1,15 @@
+/* ************************************************************************** */
+/*                                                                            */
+/*                                                        :::      ::::::::   */
+/*   ft_find_next_prime.c                               :+:      :+:    :+:   */
+/*                                                    +:+ +:+         +:+     */
+/*   By: sknkosi <marvin@42.fr>                     +#+  +:+       +#+        */
+/*                                                +#+#+#+#+#+   +#+           */
+/*   Created: 2020/06/24 10:34:59 by sknkosi           #+#    #+#             */
+/*   Updated: 2020/06/24 10:35:08 by sknkosi          ###   ########.fr       */
+/*                                                                            */
+/* ************************************************************************** */
+
 /* The function returns the next prime number greater or equal to the number given as argument.*/
 
 static int ft_is_prime(int nb)
